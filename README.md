@@ -68,7 +68,7 @@ SAC,MSANC.,SAMC
 
 - Run application in browser http://localhost:8080/jpetstore/ 
 - Press Ctrl-C to stop the server.
-delete this line
+  
 ## Run on Docker
 ```
 docker build . -t jpetstore
